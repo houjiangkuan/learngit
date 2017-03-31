@@ -4,3 +4,4 @@ Git has a mutable index callded stage.
 Git teacks changes of files.
 m 
 d  
+e 
